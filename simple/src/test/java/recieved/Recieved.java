@@ -8,6 +8,6 @@ public class Recieved {
 	@Test
 	public void demo()
 	{
-		Reporter.log("saved project",true);
+		Reporter.log("changed project",true);
 	}
 }
